@@ -1,0 +1,4 @@
+com\example\service\CalculateSimple.class
+com\example\model\OperationModel.class
+com\example\controllers\CalculatorController.class
+com\example\CalculatorSpringBoot.class
